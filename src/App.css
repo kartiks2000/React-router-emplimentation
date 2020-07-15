@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.Header{
+  text-transform: uppercase;
+  margin: 2rem;
+}
+
+.main-heading{
+  color: orangered;
+}
+
+.sub-heading{
+  color: brown;
+}
+
+.line{
+  border-color: orangered;
+}
+
+button{
+  margin: 1rem;
+}
+
+.block{
+  display: block;
+  /* text-align: center; */
+  margin: auto;
+  width: 80%;
+  height: 25px;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  background-color: powderblue;
+  padding-left: 2rem;
+  outline: none;
+  border-radius: 50rem;
+  border-color: orangered;
+}
+
+.navbtn{
+  display: flex;
+}
+
+.btns{
+  width: 100vw;
+  text-align: center;
+  margin: auto;
+}
+
+li{
+  list-style-type: none;
+  text-decoration: none;
+  margin: 1rem;
+}
+
+.navbtn{
+  margin-left: 40%;
+}

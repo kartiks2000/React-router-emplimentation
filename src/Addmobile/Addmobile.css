@@ -1,0 +1,12 @@
+.part{
+    margin: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Addmobile{
+    width: 50vw;
+    margin: auto;
+}
